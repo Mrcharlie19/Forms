@@ -1,0 +1,22 @@
+h1{
+    color:moccasin;
+}
+html{
+    background-color:peru;
+}
+p{
+    color:darkolivegreen;
+    font-size:20px;
+}
+label{
+    color:rgb(77, 72, 64);
+}
+input{
+    color:black;
+}
+option{
+    color:black;
+}
+button{
+    color:goldenrod;
+}
